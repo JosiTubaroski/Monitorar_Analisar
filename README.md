@@ -35,5 +35,14 @@ Para verificar queries com exemplos da utilização de set statistics on:
 
 https://github.com/JosiTubaroski/Monitorar_Analisar/blob/main/01-Set%20statistics%20IO.sql
 
+### 02 - Client statistics
 
+Um recurso da ferramenta SSMS, é a coleta de informações referentes a execução de comandos e a apresentação após seu término de execução.
+
+De forma semelhante ao SET STATISTICS, o recurso nativo do SMSS
+Include Cliente Statistics, apresenta um conjunto de informações
+
+Para mais informações acesse:
+
+https://github.com/JosiTubaroski/Monitorar_Analisar/blob/main/02-Client%20Statistics.sql
 
