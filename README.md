@@ -123,3 +123,24 @@ Algumas caracteristicas.
 
 https://github.com/JosiTubaroski/Monitorar_Analisar/blob/main/05%20-Performance%20Monitor.sql
 
+<n>Verificar mais detalhes:</n>
+
+https://github.com/JosiTubaroski/Monitorar_Analisar/blob/main/09-Plano%20de%20Execu%C3%A7%C3%A3o.sql
+
+### 05 - Extended Events
+
+Ou Eventos Extendidos é uma arquitetura do SQL Server que permite coletar as informações necessárias sobre os eventos em execução para solucionar ou identificar
+problemas de desempenho.
+
+Basicamente ele utiliza os mesmos conceitos do Profiler, entretanto ele executa consumindo recursor do servidor e da instância bem menores que o Profiler.
+
+Ele tem o acesso por interface gráfica. 
+
+Você também pode criar o evento através de comandos T-SQL.
+
+Extends Events
+
+https://github.com/JosiTubaroski/Monitorar_Analisar/blob/main/04a-Apoio%20Extended%20Events.sql
+
+
+
